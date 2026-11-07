@@ -35,7 +35,7 @@
     "@tabler/icons-react": "^3.31.0",
     "date-fns": "^2.30.0",
     "framer-motion": "^11.18.0",
-    "glob": "^11.1.0",
+    "glob": "^14.0.2",
     "hex-rgb": "^5.0.0",
     "jotai": "^2.17.1",
     "react": "^18.2.0",
@@ -44,7 +44,7 @@
     "react-router-dom": "^6.4.4",
     "react-tooltip": "^5.13.1",
     "twenty-shared": "workspace:*",
-    "zod": "^4.1.11"
+    "zod": "^4.6.6"
   },
   "peerDependencies": {
     "monaco-editor": ">= 0.25.0 < 1"
